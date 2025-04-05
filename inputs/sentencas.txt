@@ -1,0 +1,6 @@
+1 - A IA deverá identificar e, informar a melhor temperatura a qual as 
+vendas ganhem maior proporção, para que o investimento seja feito de 
+forma inteligente.
+2 - Por ser uma região litorânea o intuito final é validar os dias de baixa
+quantidade de vendas para reduzir o investimento naquele dia e poupar recursos.
+
