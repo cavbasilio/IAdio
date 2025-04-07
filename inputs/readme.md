@@ -1,1 +1,3 @@
-LEMBRAR DE ALIMENTAR COM AS INFORMAÇÕES DO TÓPICO 3
+![MÉTRICAS](/img1.png)
+![JOBS](/img2.png)
+![ESTRUTURA](/img3.png)
