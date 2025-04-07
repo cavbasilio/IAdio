@@ -1,6 +1,6 @@
 ##Azure Métricas
-![MÉTRICAS](inputs/img1.png)
+![MÉTRICAS](./img1.png)
 ##Azure Jobs
-![JOBS](inputs/img2.png)
+![JOBS](./img2.png)
 ##Azure Estrutura
-![ESTRUTURA](inputs/img3.png)
+![ESTRUTURA](./img3.png)
